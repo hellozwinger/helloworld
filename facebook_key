@@ -1,0 +1,2 @@
+[f|F][a|A][c|C][e|E][b|B][o|O][o|O][k|K]\\s*[=|:]?\\s*['|\"][0-9a-f]{32}['|\"]
+facebook = "0000111122223333aaaabbbbccccdddd"

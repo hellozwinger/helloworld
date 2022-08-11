@@ -4,3 +4,21 @@ C
 d
 c2sec & security assessment - company
 oracle password
+
+http://tom:123456@ccccc.com/should_be_hitted
+
+http://tommailto:123456@ccccc.com/should_be_hitted
+
+http://aaaaauser:123456@ccccc.com/should_not_be_hitted
+
+http://mailto:123456@ccccc.com/should_NOT_be_hitted
+
+http://aaaaa:122pass@ccccc.com/should_NOT_be_hitted
+
+http://hello:1333password@ccccc.com/should_NOT_be_hitted
+
+http://hello:1333passwd@ccccc.com/should_NOT_be_hitted
+
+http://hello:1333token@ccccc.com/should_NOT_be_hitted
+
+https://GLTOKEN:$GLTOKEN@ppppppp.com/simple --no-ccccc-dir -r requirements.txt   should NOT be hitted

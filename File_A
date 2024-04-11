@@ -20,4 +20,6 @@ http://hello:1333passwd@ccccc.com/should_NOT_be_hitted
 
 http://hello:1333token@ccccc.com/should_NOT_be_hitted
 
+http://katemailto:789999@ccccc.com/should_be_hitted
+
 https://GLTOKEN:$GLTOKEN@ppppppp.com/simple --no-ccccc-dir -r requirements.txt   should NOT be hitted
